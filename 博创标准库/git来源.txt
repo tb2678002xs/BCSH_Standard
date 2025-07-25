@@ -1,0 +1,4 @@
+cd existing_repo
+git remote add origin http://192.168.2.2/gitlab/class_code/BCSH_Standard.git
+git branch -M main
+git push -uf origin main
