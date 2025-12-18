@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/HuaweiMoveData/Users/18630/Desktop/work/2025/零碎事务/12月/智元素胸板与智慧头最终调试/lora_LCD_被动查询_DMA接收lora_APP/Library/GD32F3x0_Firmware_Library_V2.2.0/Examples/FMC/Read_protection",
+      "program": "d:/HuaweiMoveData/Users/18630/Desktop/work/2025/零碎事务/12月/智元素胸板与智慧头最终调试/lora_LCD_被动查询_DMA接收lora_APP/Library/GD32F3x0_Firmware_Library_V2.2.0/Examples/FMC/Read_protection/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
